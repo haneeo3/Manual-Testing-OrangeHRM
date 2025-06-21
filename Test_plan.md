@@ -1,7 +1,7 @@
 Testplan.md
-# 📄 Test Plan – OrangeHRM Manual Testing
+#  Test Plan – OrangeHRM Manual Testing
 
-## 📌 Project Overview
+##  Project Overview
 **Application Under Test (AUT)**: OrangeHRM (Open Source HR Management System)  
 **URL**: https://opensource-demo.orangehrmlive.com/  
 **Test Credentials**:  
@@ -10,13 +10,13 @@ Testplan.md
 
 ---
 
-## 🎯 Objective
+##  Objective
 To verify the functional behavior and UI of OrangeHRM's core features — including login, leave management, recruitment, and the admin panel — ensuring that the application meets its requirements and provides a smooth, bug-free experience for its users.
 
 ---
 
-## 🎯 Scope
-### ✅ In Scope
+##  Scope
+###  In Scope
 - Functional testing of:
   - Login functionality
   - Admin panel features
@@ -25,7 +25,7 @@ To verify the functional behavior and UI of OrangeHRM's core features — includ
 - UI and usability checks
 - Error message validation and form validation
 
-### ❌ Out of Scope
+###  Out of Scope
 - Performance testing
 - Security testing
 - Backend/database testing
@@ -33,7 +33,7 @@ To verify the functional behavior and UI of OrangeHRM's core features — includ
 
 ---
 
-## 🧪 Test Approach
+##  Test Approach
 - **Testing Method**: Manual testing
 - **Test Design**: Test cases created for each feature
 - **Test Execution**: Perform tests in Chrome browser
@@ -41,7 +41,7 @@ To verify the functional behavior and UI of OrangeHRM's core features — includ
 
 ---
 
-## ⚙ Test Environment
+##  Test Environment
 | Item          | Details                                |
 |---------------|----------------------------------------|
 | OS            | Windows 10                             |
@@ -51,21 +51,21 @@ To verify the functional behavior and UI of OrangeHRM's core features — includ
 
 ---
 
-## ✅ Entry Criteria
+##  Entry Criteria
 - Application is accessible
 - Test credentials available
 - Test plan and test cases prepared and approved
 
 ---
 
-## ✅ Exit Criteria
+##  Exit Criteria
 - All test cases executed
 - All critical and major bugs logged and reviewed
 - Test summary report prepared
 
 ---
 
-## 🧰 Deliverables
+##  Deliverables
 - Test Plan (`Test_Plan.md`)
 - Test Cases (`Test_Cases.xlsx`)
 - Bug Report (`Bug_Reports.md`)
@@ -73,7 +73,7 @@ To verify the functional behavior and UI of OrangeHRM's core features — includ
 
 ---
 
-## 📅 Schedule
+##  Schedule
 | Activity          | Estimated Duration |
 |-------------------|--------------------|
 | Test Planning     | 1 day             |
@@ -83,21 +83,21 @@ To verify the functional behavior and UI of OrangeHRM's core features — includ
 
 ---
 
-## 🧠 Risks & Assumptions
+##  Risks & Assumptions
 - Application is stable and accessible throughout testing
 - No major changes will be made to OrangeHRM during testing
 - Test data is reset or easily re-creatable after testing
 
 ---
 
-## 👥 Roles & Responsibilities
+##  Roles & Responsibilities
 | Role           | Responsibility                       |
 |----------------|-------------------------------------|
 | Haneef (Tester)| Design test cases, execute tests, log bugs |
 
 ---
 
-## 📢 Approvals
+##  Approvals
 Public demo - No Need for Approval.
 ---
 
