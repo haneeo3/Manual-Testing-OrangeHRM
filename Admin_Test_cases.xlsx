@@ -1,0 +1,8 @@
+| Test Case ID  | Feature         | Test Scenario                    | Expected Result                          |
+| ------------- | --------------- | -------------------------------- | ---------------------------------------- |
+| TC\_ADMIN\_01 | User Management | Add a new system user            | User should be added and visible in list |
+| TC\_ADMIN\_02 | User Management | Search user by username          | Matching result should display           |
+| TC\_ADMIN\_03 | Job Titles      | Delete a job title               | Job title should be removed              |
+| TC\_ADMIN\_04 | Organization    | Update organization name         | Name change should be reflected          |
+| TC\_ADMIN\_05 | Qualifications  | Add a new skill                  | Skill should appear in the skills list   |
+| TC\_ADMIN\_06 | Configuration   | Change system language to French | UI should update to French               |
